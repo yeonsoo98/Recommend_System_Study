@@ -9,4 +9,4 @@
 
 ## 참고 사이트
 
-- [Recommender Systems Evaluation Frameworks] (https://github.com/ACMRecSys/recsys-evaluation-frameworks?fbclid=IwAR0W4gTsrxW9V7VwMaNvXrT93olKLwDLmH6L34BPCxQLpQtHyXOGxpcJs90#a-non-complete-list-of-frameworks-useful-for-the-evaluation-and-reproducibility-of-recommendation-algorithms)
+- [Recommender Systems Evaluation Frameworks](https://github.com/ACMRecSys/recsys-evaluation-frameworks?fbclid=IwAR0W4gTsrxW9V7VwMaNvXrT93olKLwDLmH6L34BPCxQLpQtHyXOGxpcJs90#a-non-complete-list-of-frameworks-useful-for-the-evaluation-and-reproducibility-of-recommendation-algorithms)
