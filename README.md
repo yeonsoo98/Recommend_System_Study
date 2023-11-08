@@ -9,6 +9,7 @@
 
 ## 참고 사이트
 
+- [카카오 추천팀](https://github.com/kakao/recoteam)
 - [Recommender Systems Evaluation Frameworks](https://github.com/ACMRecSys/recsys-evaluation-frameworks?fbclid=IwAR0W4gTsrxW9V7VwMaNvXrT93olKLwDLmH6L34BPCxQLpQtHyXOGxpcJs90#a-non-complete-list-of-frameworks-useful-for-the-evaluation-and-reproducibility-of-recommendation-algorithms)
 
 - [EA-Online Developers Center](https://developers.nexon.com/)
