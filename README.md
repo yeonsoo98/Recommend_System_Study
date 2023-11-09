@@ -5,6 +5,7 @@
 
 
 ## 참고 문헌
+- [Evaluating Recommendation Systems](https://github.com/yeonsoo98/Recommend_System_Study/issues/1)
 
 
 ## 참고 사이트
