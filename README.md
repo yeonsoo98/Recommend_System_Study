@@ -3,7 +3,7 @@
 ## 개인 공부
 - [X] 23/11/08 ~ ( ) T-Academy 추천 시스템 기본 공부 Jupyter notebook 파일 업로드
 - [ ] 화물 추천시스템 개발
-- [O] [오토인코더 기반 화물 추천시스템 개발](https://github.com/yeonsoo98/cargo_recommendsystem) 
+- [X] [오토인코더 기반 화물 추천시스템 개발](https://github.com/yeonsoo98/cargo_recommendsystem) 
 - [ ] 피파 선수 추천시스템 개발 
 - [ ] 패스트캠퍼스 추천 공부
 - [ ] 
