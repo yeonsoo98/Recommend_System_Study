@@ -1,11 +1,16 @@
 # Recommend_System_Study
 
 ## 개인 공부
-- [X] 23/11/08 추천 시스템 기본 공부 Jupyter notebook 파일 업로드
+- [X] 23/11/08 ~ ( ) 추천 시스템 기본 공부 Jupyter notebook 파일 업로드
+- [ ] 화물 추천시스템 개발
+- [ ] 피파 선수 추천시스템 개발 
+- [ ] 패스트캠퍼스 추천 공부
+- [ ] 
 
 
 ## 참고 문헌
 - [Evaluating Recommendation Systems](https://github.com/yeonsoo98/Recommend_System_Study/issues/1)
+
 
 
 ## 참고 사이트
@@ -19,3 +24,5 @@
 
 - [추천 시스템 개요 - 개인 블로그 (rockgoat2)](https://velog.io/@rockgoat2/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EC%9A%94)
 - [추천 시스템 프로젝트 진행 참고 - 개인블로그(clock509)](https://velog.io/@clock509/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0)
+
+- [패스트 캠퍼스 - 추천시스템 참고](https://github.com/jaewonlee-728/fastcampus-RecSys)
