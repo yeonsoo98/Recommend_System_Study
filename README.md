@@ -27,3 +27,5 @@
 - [추천 시스템 프로젝트 진행 참고 - 개인블로그(clock509)](https://velog.io/@clock509/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0)
 
 - [패스트 캠퍼스 - 추천시스템 참고](https://github.com/jaewonlee-728/fastcampus-RecSys)
+
+- [추천 시스템 관련 자료 정리 - 개인깃허브](https://github.com/SeongBeomLEE/RecSys-Tech-Blog-Article)
