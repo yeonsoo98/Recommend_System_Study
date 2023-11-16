@@ -1,7 +1,7 @@
 # Recommend_System_Study
 
 ## 개인 공부
-- [X] 23/11/08 ~ ( ) [T-Academy 추천 시스템 기본 공부](https://github.com/yeonsoo98/Recommend_System_Study/tree/main/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B8%B0%EB%B3%B8%EA%B3%B5%EB%B6%80)
+- [X] 23/11/08 ~ 2023/11/16 [T-Academy 추천 시스템 기본 공부](https://github.com/yeonsoo98/Recommend_System_Study/tree/main/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B8%B0%EB%B3%B8%EA%B3%B5%EB%B6%80)
 - [ ] 화물 추천시스템 개발
 - [X] [오토인코더 기반 화물 추천시스템 개발](https://github.com/yeonsoo98/cargo_recommendsystem) 
 - [ ] 피파 선수 추천시스템 개발 
