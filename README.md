@@ -29,3 +29,6 @@
 - [패스트 캠퍼스 - 추천시스템 참고](https://github.com/jaewonlee-728/fastcampus-RecSys)
 
 - [추천 시스템 관련 자료 정리 - 개인깃허브](https://github.com/SeongBeomLEE/RecSys-Tech-Blog-Article)
+
+## 참고 
+- 추천한 유저의 데이터는 사용하지 않기 !
