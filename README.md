@@ -30,5 +30,7 @@
 
 - [추천 시스템 관련 자료 정리 - 개인깃허브](https://github.com/SeongBeomLEE/RecSys-Tech-Blog-Article)
 
+- [추천시스템 paper review - 개인 블로그[(https://ok-lab.tistory.com/category/Paper%20review/Recommender%20System)
+
 ## 참고 
 - 추천한 유저의 데이터는 사용하지 않기 !
