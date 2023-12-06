@@ -34,5 +34,7 @@
 
 - [추천시스템 - 개인블로그(Peace At Last's Tech Blog)](https://peaceatlast.tistory.com/category/%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
+- [추천시스템-개인 깃허브(강화학습관련)](https://github.com/hwan27/thebest52/tree/master)
+
 ## 참고 
 - 추천한 유저의 데이터는 사용하지 않기 !
